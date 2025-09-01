@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![👋 Hi, my name is Naman Jain](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
-<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/61cbbc2b-316c-4f04-ab81-523f86a2c963" />
+![👋 Hi, my name is Naman Jain]<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/61cbbc2b-316c-4f04-ab81-523f86a2c963" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=NamanJain06&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -37,9 +36,9 @@ Here are some ideas to get you started:
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new Framework to test AI search Engine and validate the results with LLM**
+- 💼 I'm currently working on: **💻 Developing a new Framework to test an AI search Engine and validate the results with LLM**
 - 🌱 I'm currently learning: **📚 Selenium + Java and SQL**
-- 💬 Ask me about: **💡 Manual Testing, Automation Tesitng, Leading QA Team, Manage QA Process**
+- 💬 Ask me about: **💡 Manual Testing, Automation Testing, Leading QA Team, Managing QA Process**
 - ⚡ Fun fact: **🎢 I once debugged a for AI validation and got into the endless Loop!**
 
  **<h3 align="left">Skills</h3>**
@@ -57,7 +56,3 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sushilmagare10&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
