@@ -1,4 +1,3 @@
-!-## Hi, I am Naman Jain 👋
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -18,7 +17,7 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="naman199706@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/https://www.instagram.com/naman.jain_06/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I am a results-driven Software Quality Assurance professional with over 6 years of experience in both manual and automation testing. Skilled in developing comprehensive test strategies and automation frameworks using tools like Katalon Studio (BDD, Cucumber), and Playwright JavaScript. With expertise in API testing, performance testing using JMeter and BlazeMeter, and backend validation with SQL.</h3>**
+ **<h3 align="left">I am a results-driven Software Quality Assurance professional with over 6 years of experience in both manual and automation testing. Skilled in developing comprehensive test strategies and automation frameworks using tools like Katalon Studio (BDD, Cucumber) and Playwright JavaScript. With expertise in API testing, performance testing using JMeter and BlazeMeter, and backend validation with SQL.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
