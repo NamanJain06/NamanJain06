@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Naman Jain 👋
 
 <!--
 **NamanJain06/NamanJain06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![👋 Hi, my name is Naman Jain]<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/61cbbc2b-316c-4f04-ab81-523f86a2c963" />
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/61cbbc2b-316c-4f04-ab81-523f86a2c963" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=NamanJain06&label=Profile%20views&color=0e75b6&style=flat)
 
